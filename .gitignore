@@ -2,14 +2,7 @@
 
 # Node.js artifacts
 
-npm-debug.log
-
-node_modules
-
-#!node_modules
-#node_modules/*
-#!node_modules/@study/
-#node_modules/@study/*/node_modules
+svg/
 
 #sass watch
 .sass-cache/
